@@ -1,6 +1,6 @@
 " Name:         ingretu.vim
 " Maintainer:   http://github.com/gmarik
-" Home:         http://github.com/gmarik/vigrant
+" Home:         http://github.com/gmarik/ingretu
 " License:      public domain
 " Description:  scheme is derived from Jo Vermeulen's vibrantink.vim
 " TODO:         not tested in 256 color mode
