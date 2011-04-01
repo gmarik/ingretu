@@ -16,6 +16,7 @@ let g:colors_name = "ingretu"
 hi MergeConflict guibg=red
 match MergeConflict /[><]\{7\} /
 
+hi LineNr         term=underline ctermfg=14 guifg=#424242
 highlight StatusLine ctermfg=black ctermbg=green cterm=NONE guifg=#ffbc29 guibg=black
 highlight StatusLineNC ctermfg=black ctermbg=lightblue cterm=NONE guifg=#808080 guibg=white
 highlight VertSplit term=reverse cterm=reverse gui=none guifg=#00FF00
