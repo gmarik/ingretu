@@ -8,10 +8,10 @@
 
 If you are a [Vundle](http://github.com/gmarik/vundle) user add to your `.vimrc`
 
-    Bundle 'https://github.com/gmarik/ingretu.git'
+    Bundle 'gmarik/ingretu'
     colorscheme ingretu
 
 
 ## Also
 
-- since it's derived from Vibtrantink colorscheme terminal mode looks pretty same...)
+- since it's derived from Vibtrantink colorscheme terminal mode looks pretty much the same...)
